@@ -1,3 +1,1 @@
-This project gives us the music player that helps to listen music.
-I have used tkinter module ,mixer module, OS module  and pygame module to build this module.
-I have worked 2-3 weeks duration of period to built this project.
+This project gives us the music player that helps to listen music. I have used tkinter module ,mixer module, OS module  and pygame module to built this project. Here tkinter module is used to create Graphical User interfaces (GUIs).The pygame library is an open-source module for the Python programming language specifically intended to help you make games and other multimedia applications and mixer module helps control the music used in pygame programs.
